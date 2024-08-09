@@ -1,0 +1,153 @@
+/* Reset default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Basic styling for body and main sections */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #000000;
+    color: #333;
+}
+.main-banner-heading p {
+    font-family: 'apercu';
+    font-size: 1.7rem;
+    line-height: 23px;
+    letter-spacing: 0.06rem;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 15px;
+
+}
+
+.intro-heading{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    font-size: 4rem;
+    font-weight: 300;
+    color: #ffffff;
+ margin-left: 665px;
+    
+}
+
+.paragraph-align{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1100px;
+    text-align: center; 
+    height: 70px;
+}
+p {
+   margin-left: 220px;
+
+    margin-top: 30px;
+}
+
+.sub-paragraph{
+    display: flex;
+    text-align: center;
+    width: 1100px;
+    color: rgb(162, 162, 162);
+}
+.restaraunt-heading{
+    text-align: center;
+    font-size: 2rem;
+    margin-top:  50px;
+    color: #ffffff;
+    font-weight: 200
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.img-second{
+    width: 480px;
+    margin-left: 250px;
+}
+.about-content-hold.left-box h3 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+
+.about-content-hold.left-box p {
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 18px;
+    /* letter-spacing: 0. */
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 10px;
+}
+
+.paragraph-move{
+    margin-left: 800px;
+    width: 530px;
+    
+}
+.align-heading{
+    margin-left: 800px;
+    line-height: 90px;
+}
+.move-top{
+
+}
+    
+  
+
+
+/* .futurak-font{
+    font-size: 9rem;
+    font-family: futurak;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.main-restaraunt{
+    display: flex;
+}
+.text-1{
+    font-size: 4rem;
+    color: #ffffff;
+    width: 89%;
+    /* height: 100px; */
+    /* margin-top: 60px;
+    margin-left: 90px;
+.img-first{
+    width: 80%;
+    height: 20%;
+} */ 
+
+
+.main1{
+    width: 100%;
+    height: 700px;
+}
+
+.text-main{
+    display: flex;
+    font-size: 4rem;
+    font-family: futurak;
+    color: white;
+}
+
+.font-apercu{
+    font-family: apercu;
+}
+.image{
+    display: flex;
+    margin-left: 100px;
+}
